@@ -22,23 +22,39 @@ ACP의 구조는 여러 Agent들이 메시지를 주고받으며 협력하는 �
 ## 목 차
 
 저자 소개
+
 Table of Contents (목차)
+
 0장. ACP를 시작하기 전에
+
 1장. LLM Agent와 ACP
+
 2장. RAG Agent 만들기
+
 3장. RAG Agent를 ACP Server로 래핑
+
 4장. 클라이언트에서 ACP Agent 호출
+
 5장.Smolagents Agent: ACP Server 래핑
+
 6장. Agent 호출 순차적으로 연결하기
+
 7장. Router Agent: 계층적 Agent 호출 연결
+
 8장. ACP에 MCP 추가하기
+
 책을 마치며
+
 References. 참고 문헌
 
+
 ## E-Book 구매
+
 - Yes24: https://www.yes24.com/product/goods/151135157
 - 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011819968
 - 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369802601
 
+
 ## Github 코드: 
+
 https://github.com/no-wave/llm-master-acp-cookbook
