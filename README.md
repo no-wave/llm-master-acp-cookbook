@@ -36,9 +36,9 @@ Table of Contents (목차)
 References. 참고 문헌
 
 ## E-Book 구매
-- Yes24: 
-- 교보문고: 
-- 알라딘: 
+- Yes24: https://www.yes24.com/product/goods/151135157
+- 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011819968
+- 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369802601
 
 ## Github 코드: 
 https://github.com/no-wave/llm-master-acp-cookbook
